@@ -20,8 +20,8 @@ excluded-patches = "'Custom branding'"
 
 [Twitter]
 build-mode = "apk"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [Instagram]
 build-mode = "apk"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
