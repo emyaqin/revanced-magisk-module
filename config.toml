@@ -27,3 +27,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 build-mode = "apk"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
+
+[Messenger]
+build-mode = "apk"
+arch = "both"
+apkmirror-dlurl ="https://www.apkmirror.com/apk/facebook-2/messenger/"
