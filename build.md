@@ -1,7 +1,8 @@
 Music (arm-v7a): 7.03.52  
 Music (arm64-v8a): 7.03.52  
-Twitter: 10.49.0-release.0  
 YouTube: 19.16.39  
+Twitter: 10.49.0-release.0  
+Instagram (arm64-v8a): 342.0.0.33.103  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
