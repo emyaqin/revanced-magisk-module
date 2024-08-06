@@ -26,4 +26,4 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 [Instagram]
 build-mode = "apk"
 arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android/"
