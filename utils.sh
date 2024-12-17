@@ -559,7 +559,7 @@ build_rv() {
 			if [ "$build_mode" = apk ]; then
 				patcher_args+=("-e \"${spoof_streams_patch}\"")
 			elif [ "$build_mode" = module ]; then
-				patcher_args+=("-d \"${spoof_streams_patch}\"")
+				patcher_args+=("-e \"${spoof_streams_patch}\"")
 			fi
 		fi
 		if [ "${args[riplib]}" = true ]; then
