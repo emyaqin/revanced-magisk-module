@@ -19,15 +19,18 @@ build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+version = "auto"
 
 [Twitter]
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 apkmirror-dpi = "120-640dpi"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android/download/"
+version = "auto"
 
 [Instagram]
 build-mode = "apk"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+version = "auto"
