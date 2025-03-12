@@ -1,4 +1,5 @@
 Instagram (arm64-v8a): 371.0.0.36.89  
+Instagram (arm-v7a): 371.0.0.36.89  
 Music (arm64-v8a): 8.05.51  
 Music (arm-v7a): 8.05.51  
 Twitter: 10.83.0-release.0  
