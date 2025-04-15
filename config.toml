@@ -23,9 +23,8 @@ version = "auto"
 
 [Twitter]
 build-mode = "apk"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
-apkmirror-dpi = "120-640dpi"
-uptodown-dlurl = "https://twitter.en.uptodown.com/android/download/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
+dpi = "120-640dpi"
 version = "auto"
 
 [Instagram]
