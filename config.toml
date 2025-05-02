@@ -22,9 +22,13 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 version = "auto"
 
 [Twitter]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 build-mode = "apk"
-dpi = "120-640dpi"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+version = "auto"
+
+[Spotify]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Instagram]
 build-mode = "apk"
