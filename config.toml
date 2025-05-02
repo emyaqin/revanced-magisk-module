@@ -24,11 +24,8 @@ version = "auto"
 [Twitter]
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+apkmirror-dpi = "120-640dpi"
 version = "auto"
-
-[Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Instagram]
 build-mode = "apk"
