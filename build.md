@@ -1,5 +1,4 @@
-Instagram (arm64-v8a): 379.1.0.43.80  
-Instagram (arm-v7a): 379.1.0.43.80  
+Instagram (arm64-v8a): 380.0.0.49.84  
 Music (arm64-v8a): 8.05.51  
 Music (arm-v7a): 8.05.51  
 YouTube: 20.12.46  
