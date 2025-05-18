@@ -33,3 +33,6 @@ arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 version = "auto"
+
+[Spotify]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
