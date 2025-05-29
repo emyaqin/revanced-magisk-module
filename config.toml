@@ -8,8 +8,8 @@ parallel-jobs = 1
 
 [YouTube]
 build-mode = "both"
-excluded-patches = "Custom branding"
-included-patches = "Remove player controls background"
+excluded-patches = "'Custom branding'"
+included-patches = "'Remove player controls background'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # uptodown-dlurl = "https://youtube.en.uptodown.com/android"
@@ -24,16 +24,16 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
 [Twitter]
 build-mode = "apk"
+version = "10.86.0-release.0"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-dpi = "120-640dpi"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [Instagram]
 build-mode = "apk"
-arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
