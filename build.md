@@ -1,7 +1,7 @@
 Instagram (arm64-v8a): 394.0.0.46.81  
-Music (arm64-v8a): 8.33.53  
-Music (arm-v7a): 8.33.53  
-Spotify: 9.0.72.967  
+Music (arm64-v8a): 8.34.51  
+Music (arm-v7a): 8.34.51  
+Spotify: 9.0.74.1121  
 YouTube: 20.13.41  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
