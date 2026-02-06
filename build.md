@@ -1,6 +1,4 @@
-Instagram: 414.0.0.40.83  
-YT-Music: 8.40.54  
-YouTube: 20.40.45  
+Instagram: 415.0.0.36.76  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -8,8 +6,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: MorpheApp/morphe-cli-1.3.0-all.jar  
-Patches: MorpheApp/patches-1.10.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.10.0)
+Patches: MorpheApp/patches-1.11.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.11.0)
 
 CLI: MorpheApp/morphe-cli-1.3.0-all.jar  
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
