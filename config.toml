@@ -1,4 +1,5 @@
 enable-module-update = true # set this to false if you do not want to receive updates for the module
+parallel-jobs = 1
 compression-level = 9
 patches-version = "dev"
 cli-version = "dev"
