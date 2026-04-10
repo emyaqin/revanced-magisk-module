@@ -1,6 +1,6 @@
 {
-  "version": "v20.21.37 (patches 1.22.0.mpp)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/emyaqin/revanced-magisk-module/releases/download/1/youtube-morphe-module-v20.21.37-all.zip",
+  "version": "v20.21.37 (patches 1.23.0.mpp)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/emyaqin/revanced-magisk-module/releases/download/2/youtube-morphe-module-v20.21.37-all.zip",
   "changelog": "https://raw.githubusercontent.com/emyaqin/revanced-magisk-module/update/build.md"
 }
